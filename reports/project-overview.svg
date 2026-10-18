@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+<rect width="1280" height="800" fill="#ffffff"/>
+<text x="72.0" y="63.0" font-family="Inter,Arial,sans-serif" font-size="31" font-weight="700" fill="#0f172a" text-anchor="start">Options Pricing Library</text>
+<text x="73.0" y="96.0" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#64748b" text-anchor="start">QUANT DEVELOPER  /  SYNTHETIC ENGINEERING DEMO</text>
+<text x="1190.0" y="96.0" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" fill="#0f766e" text-anchor="end">REPRODUCIBLE SAMPLE</text>
+<rect x="72" y="126" width="270" height="112" rx="13" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="89.0" y="157.0" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#64748b" text-anchor="start">Call value</text>
+<text x="89.0" y="202.0" font-family="Inter,Arial,sans-serif" font-size="27" font-weight="700" fill="#0f172a" text-anchor="start">8.67</text>
+<rect x="356" y="126" width="270" height="112" rx="13" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="373.0" y="157.0" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#64748b" text-anchor="start">Put value</text>
+<text x="373.0" y="202.0" font-family="Inter,Arial,sans-serif" font-size="27" font-weight="700" fill="#0f172a" text-anchor="start">6.445</text>
+<rect x="640" y="126" width="270" height="112" rx="13" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="657.0" y="157.0" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#64748b" text-anchor="start">Call delta</text>
+<text x="657.0" y="202.0" font-family="Inter,Arial,sans-serif" font-size="27" font-weight="700" fill="#0f172a" text-anchor="start">0.584</text>
+<rect x="924" y="126" width="270" height="112" rx="13" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="941.0" y="157.0" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#64748b" text-anchor="start">Parity residual</text>
+<text x="941.0" y="202.0" font-family="Inter,Arial,sans-serif" font-size="27" font-weight="700" fill="#0f172a" text-anchor="start">-0</text>
+<text x="76.0" y="288.0" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="700" fill="#0f172a" text-anchor="start">Option value across underlying spot levels</text>
+<text x="1190.0" y="288.0" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="400" fill="#64748b" text-anchor="end">Option value</text>
+<line x1="110" y1="330.0" x2="1190" y2="330.0" stroke="#e2e8f0"/>
+<text x="98.0" y="335.0" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="end">36.8</text>
+<line x1="110" y1="412.5" x2="1190" y2="412.5" stroke="#e2e8f0"/>
+<text x="98.0" y="417.5" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="end">26.7</text>
+<line x1="110" y1="495.0" x2="1190" y2="495.0" stroke="#e2e8f0"/>
+<text x="98.0" y="500.0" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="end">16.6</text>
+<line x1="110" y1="577.5" x2="1190" y2="577.5" stroke="#e2e8f0"/>
+<text x="98.0" y="582.5" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="end">6.45</text>
+<line x1="110" y1="660.0" x2="1190" y2="660.0" stroke="#e2e8f0"/>
+<text x="98.0" y="665.0" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="end">-3.66</text>
+<line x1="110" y1="330" x2="110" y2="660" stroke="#94a3b8"/>
+<line x1="110" y1="660" x2="1190" y2="660" stroke="#94a3b8"/>
+<polyline points="110.0,628.1 200.0,625.2 290.0,619.8 380.0,611.1 470.0,598.3 560.0,581.1 650.0,559.4 740.0,533.5 830.0,504.0 920.0,471.5 1010.0,436.6 1100.0,399.9 1190.0,361.9" fill="none" stroke="#2563eb" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="110.0,401.4 200.0,439.3 290.0,474.7 380.0,506.8 470.0,534.8 560.0,558.4 650.0,577.5 740.0,592.5 830.0,603.8 920.0,612.1 1010.0,618.0 1100.0,622.1 1190.0,624.9" fill="none" stroke="#0f766e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="110" y1="698" x2="135" y2="698" stroke="#2563eb" stroke-width="4"/>
+<text x="144.0" y="703.0" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="400" fill="#334155" text-anchor="start">Call</text>
+<line x1="340" y1="698" x2="365" y2="698" stroke="#0f766e" stroke-width="4"/>
+<text x="374.0" y="703.0" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="400" fill="#334155" text-anchor="start">Put</text>
+<text x="650.0" y="732.0" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="400" fill="#64748b" text-anchor="middle">Underlying spot</text>
+<line x1="72" y1="755" x2="1208" y2="755" stroke="#e2e8f0"/>
+<text x="72.0" y="781.0" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#64748b" text-anchor="start">Analytic European-option example on synthetic inputs under Black-Scholes assumptions; not a valuation recommendation.</text>
+</svg>

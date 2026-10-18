@@ -1,0 +1,75 @@
+{
+  "project": "Options Pricing Library",
+  "data_notice": "Analytic European-option example on synthetic inputs under Black-Scholes assumptions; not a valuation recommendation.",
+  "metrics": {
+    "spot": 100.0,
+    "strike": 100.0,
+    "risk_free_rate_pct": 3.0,
+    "implied_volatility_pct": 22.0,
+    "time_to_expiry_years": 0.75,
+    "european_call_price": 8.669513,
+    "european_put_price": 6.444637,
+    "call_delta": 0.584476,
+    "put_delta": -0.415524,
+    "vega_per_vol_point": 0.337719,
+    "put_call_parity_residual": -0.0,
+    "pricing_method": "Black-Scholes-Merton closed form"
+  },
+  "chart": {
+    "title": "Option value across underlying spot levels",
+    "x_label": "Underlying spot",
+    "y_label": "Option value",
+    "series": [
+      {
+        "name": "Call",
+        "values": [
+          0.2516,
+          0.6071,
+          1.2639,
+          2.3322,
+          3.8989,
+          6.0108,
+          8.6695,
+          11.8377,
+          15.4514,
+          19.434,
+          23.7079,
+          28.2028,
+          32.8593
+        ]
+      },
+      {
+        "name": "Put",
+        "values": [
+          28.0267,
+          23.3823,
+          19.039,
+          15.1073,
+          11.674,
+          8.7859,
+          6.4446,
+          4.6128,
+          3.2265,
+          2.2091,
+          1.4831,
+          0.9779,
+          0.6344
+        ]
+      }
+    ]
+  },
+  "flow": [
+    "Contract terms",
+    "Market inputs",
+    "Closed-form pricer",
+    "Greeks & checks",
+    "Valuation result"
+  ],
+  "flow_values": [
+    0.1,
+    0.2,
+    0.4,
+    0.1,
+    0.1
+  ]
+}
